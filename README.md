@@ -69,6 +69,14 @@ or using generic url by passing parameters
 
 
 ### Testing
+To run the unit test, please run the following command from the console.
+Make sure you are in project root folder
+ 
+       ./vendor/bin/simple-phpunit
+        
+
+
+
 The unit testing procedures have been included in the the app.
 
        #/tests/Controller/MoviesControllerDateReleaseTest.php
