@@ -8,11 +8,24 @@ This application is designed to search movies via API
     * Genre
     * Rating
 
-## Demo
-       https://ventia.rapporthosting.com/houseology/api/public/movies
-       https://ventia.rapporthosting.com/houseology/api/public/movies/genre/action
-       https://ventia.rapporthosting.com/houseology/api/public/movies?rating=5
+## Demo 
 
+[Demo 1](https://ventia.rapporthosting.com/houseology/api/public/movies)
+/movies
+
+[Demo 2](https://ventia.rapporthosting.com/houseology/api/public/movies/genre/action)
+/movies/genre/action
+
+[Demo 3](https://ventia.rapporthosting.com/houseology/api/public/movies?rating=5)
+/movies?rating=5
+
+
+
+
+ 
+ 
+
+      
 
 ## Configuration
 Please configure the database connections in following files
@@ -30,6 +43,10 @@ For Unit testing
 
 
 ## Usage
+
+       /movies/param/value
+
+or
 
        /movies?param
 
