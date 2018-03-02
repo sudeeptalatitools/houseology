@@ -20,13 +20,11 @@ This application is designed to search movies via API
 /movies?rating=5
 
 
+## Installation
+Please run following command for installation
 
-
- 
- 
-
+       php composer.phar updat
       
-
 ## Configuration
 Please configure the database connections in following files
 
