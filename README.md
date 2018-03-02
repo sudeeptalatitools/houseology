@@ -1,4 +1,4 @@
-# houseology
+# Houseology
 # Movie Reviews API Application
 
 This application is designed to search movies via API
@@ -135,4 +135,4 @@ For testing with curl, please change the $testSystemUrl as per requirements
          MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
          COMMIT;
 
-       `
+      
