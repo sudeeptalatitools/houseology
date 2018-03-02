@@ -20,7 +20,7 @@
     </php>
 
     <testsuites>
-        <testsuite name="My Project Test Suite">
+        <testsuite name="Houseology Movies API Project Test Suite">
             <directory>tests/</directory>
         </testsuite>
     </testsuites>
