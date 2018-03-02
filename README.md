@@ -1,5 +1,5 @@
 # houseology
-#Movie Reviews API Application
+# Movie Reviews API Application
 
 This application is designed to search movies via API
 
@@ -8,13 +8,13 @@ This application is designed to search movies via API
     * Genre
     * Rating
 
-##Demo
+## Demo
        https://ventia.rapporthosting.com/houseology/api/public/movies
        https://ventia.rapporthosting.com/houseology/api/public/movies/genre/action
        https://ventia.rapporthosting.com/houseology/api/public/movies?rating=5
 
 
-##Configuration
+## Configuration
 Please configure the database connections in following files
 
        #.env
@@ -29,7 +29,7 @@ For Unit testing
 
 
 
-##Usage
+## Usage
 
        /movies?param
 
@@ -51,7 +51,7 @@ or using generic url by passing parameters
        /movies?rating=5
 
 
-###Testing
+### Testing
 The unit testing procedures have been included in the the app.
 
        #/tests/Controller/MoviesControllerDateReleaseTest.php
@@ -63,7 +63,7 @@ The unit testing procedures have been included in the the app.
 
 For some database testing please make sure to use the test database
 
-#####Additional configuration for testing VIA curl
+##### Additional configuration for testing VIA curl
 The system has been tested with PHPUnit along with internal as well as external libraries
 
 For testing with curl, please change the $testSystemUrl as per requirements
