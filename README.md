@@ -23,7 +23,7 @@ This application is designed to search movies via API
 ## Installation
 Please run following command for installation
 
-       php composer.phar updat
+       php composer.phar update
       
 ## Configuration
 Please configure the database connections in following files
